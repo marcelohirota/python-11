@@ -1,0 +1,5 @@
+/.pytest_cache
+/.vscode
+/output.xml
+/stdout.txt
+/__pycache__
